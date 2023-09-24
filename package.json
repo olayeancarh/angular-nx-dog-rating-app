@@ -2,7 +2,9 @@
   "name": "@doggo-rating-workspace/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx serve doggo-rating-app --configuration=development"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.2.0",
