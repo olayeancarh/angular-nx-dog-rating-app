@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx serve doggo-rating-app --configuration=development"
+    "start": "nx serve doggo-rating-app --configuration=development",
+    "graph": "nx graph"
   },
   "private": true,
   "dependencies": {
